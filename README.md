@@ -20,12 +20,9 @@ Tasktify is a Laravel-based task management web application designed to help stu
 
 ✅ Productivity reports and analytics
 ## Tech Stack
-
-- Laravel 10
-- Bootstrap 5
-- MySQL
-- Blade Template Engine
-- Chart.js (for progress charts)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,bootstrap,mysql,js&perline=20" />
+</a>
 
 ## Installation
 
